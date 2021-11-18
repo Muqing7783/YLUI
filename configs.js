@@ -3,7 +3,7 @@ YL.static = {
   softwareName: 'MuQing's Blog', //网站名。请在此处填写您自己的网站名，如王小明的博客。
   version: "1.0.0", // 网站版本号
   iconBtnStart: 'html5', //主图标
-  author: '穆清',//作者
+author: 'MuQing',//作者
   contactInformation: 'QQ：642563794',//联系方式
   officialWebsite: '//null',//软件官网
   welcome: '欢迎来到穆清的云桌面',//加载完毕控制台提示信息
