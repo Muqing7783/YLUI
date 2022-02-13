@@ -1,13 +1,13 @@
 YL.static = {
   /** “关于”信息 */
-  softwareName: 'MuQing's Blog', //网站名。请在此处填写您自己的网站名，如王小明的博客。
+  softwareName: '穆清的博客', //网站名。请在此处填写您自己的网站名，如王小明的博客。
   version: "1.0.0", // 网站版本号
   iconBtnStart: 'html5', //主图标
-author: 'MuQing',//作者
+author: '穆清',//作者
   contactInformation: 'QQ：642563794',//联系方式
-  officialWebsite: '//null',//软件官网
-  welcome: '欢迎来到穆清的云桌面',//加载完毕控制台提示信息
-  copyrightDetail: 'null',//版权详细信息
+  officialWebsite: 'https://www.lishijie.xyz',//软件官网
+  welcome: '本网站UI由 YLUI 强力驱动\n更多信息：//ylui.yuri2.cn',//加载完毕控制台提示信息
+  copyrightDetail: '仅用于个人用户学习使用',//版权详细信息
   otherStatements: '',//其他信息（可留空）
 
   /**————————————————————————————————————————————————————————————————————————————————————————————*/
